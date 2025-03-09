@@ -18,9 +18,10 @@ const Hero = () => {
                 duration={0.5}
             />
         </div>
-        <a className="flex justify-center mt-8" href="#explore"> 
+
+        <div className="flex justify-center mt-8"> 
                 <MagicButton />
-            </a>
+        </div>
       </div>
 
   );

@@ -28,11 +28,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .left-container {
-  @apply w-1/2 h-full p-4 border-r border-gray-300 ;
+  @apply w-1/2 h-1/2 p-4 border-r border-gray-300 ;
 }
 
 .right-container {
-  @apply w-1/2 h-full p-4;
+  @apply w-1/2 h-1/2 p-4;
 }
 
 .btn-global {

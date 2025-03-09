@@ -14,7 +14,7 @@ const Hero = () => {
             </h1>
             <TextGenerateEffect 
                 words="Discover the latest trends and insights in global health statistics. Filter by country, disease, and more to uncover meaningful patterns and gain a deeper understanding of the world's healthcare landscape."
-                className="mt-4 text-lg sm:text-l lg:text-xl text-center text-gray-300 font-sans" 
+                className="m-20 mt-4 text-lg sm:text-l lg:text-xl text-center text-gray-300 font-sans" 
                 duration={0.5}
             />
         </div>
